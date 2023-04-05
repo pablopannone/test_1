@@ -37,6 +37,11 @@
     <p>Aprenda a programar en Python, uno de los lenguajes de programación más populares del mundo. <a
             href="https://ejemplo.com/curso-python">Más información</a></p>
 
+
+    <h2>Curso de Python Intermedio</h2>
+    <p>Aprenda a programar en Python, uno de los lenguajes de programación más populares del mundo. <a
+            href="https://ejemplo.com/curso-python">Más información</a></p>
+
 </body>
 
 </html>
